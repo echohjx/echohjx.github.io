@@ -1,0 +1,73 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4904613 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1745843190022') format('woff2'),
+       url('iconfont.woff?t=1745843190022') format('woff'),
+       url('iconfont.ttf?t=1745843190022') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qiche:before {
+  content: "\e60e";
+}
+
+.icon-shipin:before {
+  content: "\e606";
+}
+
+.icon-biaoqian1:before {
+  content: "\e628";
+}
+
+.icon-xiuxian1:before {
+  content: "\e62a";
+}
+
+.icon-shuji:before {
+  content: "\e6be";
+}
+
+.icon-QQ:before {
+  content: "\e667";
+}
+
+.icon-guanyuwomen:before {
+  content: "\e634";
+}
+
+.icon-fenlei2:before {
+  content: "\f085";
+}
+
+.icon-riqi:before {
+  content: "\100c6";
+}
+
+.icon-youjian:before {
+  content: "\ec69";
+}
+
+.icon-tupian:before {
+  content: "\e63f";
+}
+
+.icon-icon_shouye:before {
+  content: "\e620";
+}
+
+.icon-github:before {
+  content: "\e600";
+}
+
+.icon-csdn:before {
+  content: "\e601";
+}
+
